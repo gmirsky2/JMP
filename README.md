@@ -7,7 +7,7 @@ _Note: You will need to create a `gameplay.gif` and upload it to your repository
 
 > **JMP** transforms the browser's URL address bar into a minimalist, 4-pixel-high display, creating a survival game where the screen is a single, constantly changing line of text. It is an exploration of creative coding within the most severe of limitations.
 
-**[▶️ Play it Live Here](https://gmirsky2.github.io/JMP/jmp.html)** _(You will need to set up GitHub Pages for this link to work)_
+**[▶️ Play it Live Here](https://gmirsky2.github.io/JMP/index.html)** _(You will need to set up GitHub Pages for this link to work)_
 
 ---
 
