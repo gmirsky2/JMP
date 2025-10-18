@@ -2,8 +2,7 @@
 
 ### A game that doesn't just run *in* your browser—it runs *on* your browser.
 
-![JMP Gameplay GIF](https://raw.githubusercontent.com/gmirsky2/JMP/main/gameplay.gif)
-_Note: You will need to create a `gameplay.gif` and upload it to your repository for the image to display. Update the link above._
+![JMP Gameplay GIF](https://github.com/gmirsky2/JMP/blob/main/gameplay.gif)
 
 > **JMP** transforms the browser's URL address bar into a minimalist, 4-pixel-high display, creating a survival game where the screen is a single, constantly changing line of text. It is an exploration of creative coding within the most severe of limitations.
 
